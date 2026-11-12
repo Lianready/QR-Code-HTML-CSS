@@ -1,6 +1,31 @@
-# QR Code Challenge
+# Frontend Mentor - QR Code Component
 
-A Pen created on CodePen.
+This is a solution to the QR code component challenge on Frontend Mentor. 
 
-Original URL: [https://codepen.io/editor/Lianready/pen/01a1cbc4-199c-70cc-aa60-3c357356a85e](https://codepen.io/editor/Lianready/pen/01a1cbc4-199c-70cc-aa60-3c357356a85e).
+## Links
 
+- Live Site (netlify): [https://chic-bonbon-70a772.netlify.app/]
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-html-and-css-FN21aXyzfP]
+- Github: [https://github.com/Lianready/QR-Code-HTML-CSS.git]
+
+## Built With
+
+- HTML 
+- CSS 
+- Google Fonts (Outfit)
+- Custom favicon integration
+
+## What I Learned
+
+Building this component helped me practice:
+- Centering a card layout vertically and horizontally across the screen using Flexbox.
+- Applying structural CSS reset properties (`box-sizing: border-box`).
+- Structuring card padding, border-radius, and typography.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE.txt)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE.txt).
